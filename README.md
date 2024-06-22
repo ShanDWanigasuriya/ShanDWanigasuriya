@@ -1,12 +1,13 @@
 <h2 align="center">👋 Hi, I’m Shan D. Wanigasuriya </h2>
+<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?color=fff&width=480&height=65&lines=Welcome+To+My+Profile+.+.+.+.;+.+.+.&center=true"></a>
 </p>
 
 - 🔭 I’m currently undergraduate in Software Engineering at SLIIT.
-- 👯 I’m looking to collaborate on OpenSource projects
+- 🌱 learning New Techs
+- 👯 Looking to collaborate on OpenSource projects
 - 📫 How to reach me: shandilhara97@gmail.com
-- 🌱 I’m currently learning .NET
 
 
 
@@ -29,7 +30,7 @@
 <br/>
 <br/>
 
-[![Shan D. Wanigasuriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShanDWanigasuriya&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Shan D. Wanigasuriya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ShanDWanigasuriya&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <br/>
 <br/>
 
