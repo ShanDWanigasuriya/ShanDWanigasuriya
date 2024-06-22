@@ -6,7 +6,7 @@
 - 🔭 I’m currently undergraduate in Software Engineering at SLIIT.
 - 👯 I’m looking to collaborate on OpenSource projects
 - 📫 How to reach me: shandilhara97@gmail.com
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning .NET
 
 
 
@@ -35,8 +35,7 @@
 
 ## 🏆 GitHub Trophies
 
-<p><img src="https://github-profile-trophy.vercel.app/?username=ShanDWanigasuriya">
-</p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=ShanDWanigasuriya"></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
