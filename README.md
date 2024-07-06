@@ -7,7 +7,7 @@
 - 🔭 I’m currently undergraduate in Software Engineering at SLIIT.
 - 🌱 learning New Techs
 - 👯 Looking to collaborate on OpenSource projects
-- 📫 How to reach me: [@shanD.wanigasuriya](mailto:inbox.shandilhara97@gmail.com)
+- 📫 How to reach me: [@shanD.wanigasuriya](mailto:inbox.shandilhara97@gmail.com;)
 
 
 
