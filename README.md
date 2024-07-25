@@ -11,9 +11,9 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ShanDWanigasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="ShanDWanigasuriya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShanDWanigasuriya&label=Profile%20views&color=0e75b6&style=flat" alt="ShanDWanigasuriya" /> </p>
 
-## 📊 My Github Stats
+<p align="center">## 📊 My Github Stats</p>
   
   <br/>
 
